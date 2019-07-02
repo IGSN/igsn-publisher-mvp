@@ -1,4 +1,4 @@
-""" file:    validators.py (igsn-registry-mvp)
+""" file:    validators.py (igsn-publisher-mvp)
     author:  Jess Robertson, jessrobertson@icloud.com
     date:    July 2019
 

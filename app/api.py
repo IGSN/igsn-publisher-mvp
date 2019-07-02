@@ -1,4 +1,4 @@
-""" file:    api.py (igsn-registry-mvp)
+""" file:    api.py (igsn-publisher-mvp)
     author:  Jess Robertson, jessrobertson@icloud.com
     date:    July 2019
 
@@ -14,7 +14,7 @@ from .igsn import igsn
 blueprint = Blueprint('api', __name__)
 api = Api(
     blueprint,
-    title='IGSN Registry API MVP',
+    title='IGSN Publisher API MVP',
     version='1.0',
     description="An API for registring samples"
 )

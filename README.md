@@ -1,5 +1,5 @@
-# isgn-registry-mvp
-IGSN registry provider MVP: Lightweight submission verification (too lightweight - we need to replace this with a Batch workflow as it's killing us to do deploys in this way).
+# isgn-publisher-mvp
+IGSN registry publisher MVP: Lightweight submission verification (too lightweight - we need to replace this with a Batch workflow as it's killing us to do deploys in this way).
 
 _add badges here_
 

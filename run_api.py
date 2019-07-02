@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-""" file:    run_api.py (igsn-registry-mvp)
+""" file:    run_api.py (igsn-publisher-mvp)
     author:  Jess Robertson, jessrobertson@icloud.com
     date:    July 2019
 

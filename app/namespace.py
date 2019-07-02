@@ -1,4 +1,4 @@
-""" file:    namespace.py (igsn-registry-mvp)
+""" file:    namespace.py (igsn-publisher-mvp)
     author:  Jess Robertson, jessrobertson@icloud.com
     date:    July 2019
 
@@ -6,3 +6,4 @@
 """
 # pylint: disable=C0103
 
+``
